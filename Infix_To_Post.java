@@ -63,3 +63,5 @@ public class Infix_To_Post {
 	}
 
 }
+
+Output: abcd^e-fgh*+^*+i-
